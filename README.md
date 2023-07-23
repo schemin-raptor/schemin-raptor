@@ -1,5 +1,5 @@
 # About Me
-Engineer with a background in Dynamics and Mechanism Engineer.  Use python as my daily driver at work. Currently learning Rust and potentially C++ (soon).
+Engineer with a background in dynamics and mechanisms.  Use python as my daily driver at work. Currently learning Rust and potentially C++ (soon).
 # My projects
 See my projects at [Gitlab](https://gitlab.com/schemin-raptor) repository.
 
